@@ -8,6 +8,7 @@ This project covers how to pick image & video from gallery & camera. To show vid
 
 # Packages Used
 Flutter 3D Choice Chip: [link](https://pub.dev/packages/flutter_3d_choice_chip)
+
 Video Thumbnail: [link](https://pub.dev/packages/video_thumbnail)
 
 
