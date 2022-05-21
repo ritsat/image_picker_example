@@ -7,11 +7,11 @@ Flutter Image & Video Picker Example
 This project covers how to pick image & video from gallery & camera. To show video on screen, we have created video thumbnail inside this project.
 
 # Packages Used
-1) Image Picker: [link](https://pub.dev/packages/image_picker)
+1) [Image Picker](https://pub.dev/packages/image_picker)
 
-2) Flutter 3D Choice Chip: [link](https://pub.dev/packages/flutter_3d_choice_chip)
+2) [Flutter 3D Choice Chip](https://pub.dev/packages/flutter_3d_choice_chip)
 
-3) Video Thumbnail: [link](https://pub.dev/packages/video_thumbnail)
+3) [Video Thumbnail](https://pub.dev/packages/video_thumbnail)
 
 
 Watch below [Youtube](https://www.youtube.com/watch?v=Z_UCTPpgKWI) video for the code walkthrough,
